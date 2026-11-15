@@ -1,4 +1,4 @@
-# Earth Sonification Jukebox
+# Earth Tune 
 
 **Listening to the planet: Earth observation data turned into music.**
 
@@ -8,7 +8,7 @@ A project for the NASA Space Apps Challenge 2026 · Challenge: The Earth Informa
 ---
 Information about the state of our planet (drought maps, temperature anomalies, time series, satellite imagery) is communicated almost exclusively through images, and that leaves many people out.
 
-The Earth Sonification Jukebox turns Earth data visualizations into sound synchronized with the image. This opens a second channel of access to the information: the ear.
+The Earth Tune turns Earth data visualizations into sound synchronized with the image. This opens a second channel of access to the information: the ear.
 ---
 
 ## Why does it matter?
